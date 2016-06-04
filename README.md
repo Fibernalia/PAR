@@ -1,2 +1,6 @@
 # PAR
-PAR - Paral·lelisme, FIB - Facultad de Informática de Barcelona
+Álvaro Martínez Arroyo
+
+Daniel García Romero
+
+Nota: 8,8
